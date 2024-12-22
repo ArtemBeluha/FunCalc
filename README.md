@@ -6,7 +6,7 @@
 
 ```sh
 go get .
-go run main.go 
+go run FunCalc.go 
 ```
 
 Это запустит веб-сервис на порту 8080 по умолчанию.
